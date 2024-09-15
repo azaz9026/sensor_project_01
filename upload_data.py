@@ -4,7 +4,7 @@ import pandas as pd
 import json
 
 # URL
-url = "mongodb+srv://project01:@cluster0.upbfl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+url = "mongodb+srv://project01:azaz@cluster0.upbfl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 
 
